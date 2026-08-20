@@ -122,4 +122,4 @@ description: Open-Source Intel. Get all the information needed for your target.
 * [Social Searcher](https://www.social-searcher.com/) - Social Media Search Engine. 
 * [Toutatis](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more. ![last-commit](https://img.shields.io/github/last-commit/megadose/toutatis?style=flat)
 * [WhatsMyName](https://github.com/webbreacher/whatsmyname) - Unified data required to perform user and username enumeration on various websites. ![last-commit](https://img.shields.io/github/last-commit/webbreacher/whatsmyname?style=flat)
-* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP. ![last-commit](https://img.shields.io/github/last-commit/Xquik-dev/x-twitter-scraper?style=flat)
