@@ -5,7 +5,7 @@ description: Understand your target. Perform in-depth research and discover new 
 
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-71-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-72-757575?style=for-the-badge)
 
 ### Azure
 
