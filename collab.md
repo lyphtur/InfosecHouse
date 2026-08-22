@@ -1,6 +1,6 @@
 ---
 title: Collaboration
-description: Discover tools used for red team collaboration.
+description: Hack together. Tools for red team collaboration.
 ---
 
 ![](/assets/headers/header-logo.png)

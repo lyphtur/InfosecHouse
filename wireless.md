@@ -1,6 +1,6 @@
 ---
 title: Wireless
-description: Discover tools and resources for exploiting Wi-Fi, bluetooth, RFID, and more.
+description: Go wireless. Tools for exploiting Wi-Fi, Bluetooth, RFID, and more.
 ---
 
 ![](/assets/headers/header-logo.png)

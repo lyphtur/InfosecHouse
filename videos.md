@@ -1,6 +1,6 @@
 ---
 title: Videos
-description: Talks, live-streams, and presentations.
+description: Talks, livestreams, and presentations to sharpen your skills.
 ---
 
 ![](/assets/headers/header-logo.png)

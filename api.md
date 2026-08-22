@@ -1,6 +1,6 @@
 ---
 title: API
-description: Tools and resources for pentesting against API endpoints.
+description: Poke every endpoint. Tools for pentesting APIs.
 ---
 
 ![](/assets/headers/header-logo.png)

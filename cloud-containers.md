@@ -1,6 +1,6 @@
 ---
 title: Cloud & Containers
-description: Discover tools and resources dedicated to hacking cloud platforms.
+description: Storm the cloud. Tools for hacking cloud platforms and containers.
 ---
 
 ![](/assets/headers/header-logo.png)

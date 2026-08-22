@@ -1,6 +1,6 @@
 ---
 title: Honeypots
-description: Deploy honeypots to catch the ops moves. 
+description: Deploy honeypots to catch attackers in the act.
 ---
 
 ![](/assets/headers/header-logo.png)

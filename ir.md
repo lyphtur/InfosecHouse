@@ -1,6 +1,6 @@
 ---
 title: Incident Response
-description: Incident response tools, and resources when alarms pop off.
+description: Incident response tools and resources for when alarms pop off.
 ---
 
 ![](/assets/headers/header-logo.png)

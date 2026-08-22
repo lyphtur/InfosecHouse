@@ -1,6 +1,6 @@
 ---
 title: Cheat Sheets
-description: Cheat sheets for Offensive & Defensive Security.
+description: Quick-reference cheat sheets for offensive and defensive security work.
 ---
 
 ![](/assets/headers/header-logo.png)

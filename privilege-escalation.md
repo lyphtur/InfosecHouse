@@ -1,6 +1,6 @@
 ---
 title: Privilege Escalation
-description: Reverse engineering tools both offensive and defensive operations can utilize.
+description: Go from limited access to full control. Escalate your privileges on Linux, macOS, and Windows.
 ---
 
 ![](/assets/headers/header-logo.png)

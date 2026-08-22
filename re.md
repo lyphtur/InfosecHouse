@@ -1,6 +1,6 @@
 ---
 title: Reverse Engineering
-description: Reverse engineering tools both offensive and defensive operations can utilize.
+description: Reverse engineering tools that both offensive and defensive operations can utilize.
 ---
 
 ![](/assets/headers/header-logo.png)

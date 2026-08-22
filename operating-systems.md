@@ -1,6 +1,6 @@
 ---
 title: Operating Systems
-description: Operating system's solely focused for defensive security teams.
+description: Operating systems for whatever task at hand.
 ---
 
 ![](/assets/headers/header-logo.png)

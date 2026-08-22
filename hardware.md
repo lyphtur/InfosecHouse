@@ -1,6 +1,6 @@
 ---
 title: Hardware
-description: Grab some of the most used hardware within the penetration testing industry.
+description: Gear up. The hardware every pentester keeps in their bag.
 ---
 
 ![](/assets/headers/header-logo.png)

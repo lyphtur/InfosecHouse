@@ -1,6 +1,6 @@
 ---
 title: IDS/IPS
-description: Intrusion Detection and Prevention Systems.
+description: Detect and block intrusions before they do damage.
 ---
 
 ![](/assets/headers/header-logo.png)

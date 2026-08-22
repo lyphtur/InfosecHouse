@@ -1,6 +1,6 @@
 ---
 title: Music
-description: Kick back relax and enjoy some entertainment.
+description: Kick back, relax, and enjoy some entertainment.
 ---
 
 ![](/assets/headers/header-logo.png)

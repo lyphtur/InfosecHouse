@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Tools and resources for popping those linux boxes.
+description: Tools and resources for popping those Linux boxes.
 ---
 
 ![](/assets/headers/header-logo.png)

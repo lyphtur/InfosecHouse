@@ -1,6 +1,6 @@
 ---
 title: Firewalls
-description: Tools & Resources For Attacking and Defending Firewalls.
+description: Attack the castle doors.
 ---
 
 ![](/assets/headers/header-logo.png)

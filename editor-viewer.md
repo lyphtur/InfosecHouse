@@ -1,6 +1,6 @@
 ---
 title: Editors & Viewers
-description: Tools for editing/viewing files.
+description: Editors and viewers for digging into files of every format.
 ---
 
 ![](/assets/headers/header-logo.png)

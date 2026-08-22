@@ -1,6 +1,6 @@
 ---
 title: E-Mail
-description: E-Mail pentesting tools and resources.
+description: Phish, spoof, and pop inboxes. E-mail pentesting tools and resources.
 ---
 
 ![](/assets/headers/header-logo.png)

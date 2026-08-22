@@ -1,6 +1,6 @@
 ---
 title: Blogs & Zines
-description: Reading material for offensive security researchers.
+description: Read up before you break in. Blogs and zines from offensive security researchers.
 ---
 
 ![](/assets/headers/header-logo.png)

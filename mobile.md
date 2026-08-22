@@ -1,6 +1,6 @@
 ---
 title: Mobile
-description: Tools & Resources for Defending and Attacking Mobile Applications.
+description: Root it, jailbreak it, break it. Tools for attacking and defending mobile applications.
 ---
 
 ![](/assets/headers/header-logo.png)

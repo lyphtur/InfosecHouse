@@ -1,6 +1,6 @@
 ---
 title: Bug Bounty
-description: Test out your skills against other hackers. Get paid for finding vulnerabilities.
+description: Hack for cash. Test your skills and get paid for finding vulnerabilities.
 ---
 
 ![](/assets/headers/header-logo.png)

@@ -1,6 +1,6 @@
 ---
 title: Network
-description: Tools & Resources For Sniffing The Network and Modifying The Packets.
+description: Sniff the network. Modify the packets.
 ---
 
 ![](/assets/headers/header-logo.png)

@@ -1,6 +1,6 @@
 ---
 title: Shells
-description: Generating pre-built webshells to customizing your own.
+description: From pre-built webshells to fully custom ones.
 ---
 
 ![](/assets/headers/header-logo.png)

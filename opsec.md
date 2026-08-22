@@ -1,6 +1,6 @@
 ---
 title: Operation Security
-description: Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance.
+description: Seek out technologies and methods of remaining anonymous in this day and age of mass surveillance.
 ---
 
 ![](/assets/headers/header-logo.png)

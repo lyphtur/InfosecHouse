@@ -1,6 +1,6 @@
 ---
 title: AI
-description: Tools and resources for pentesting and securing artificial intelligence systems.
+description: Break the machines that think. Tools for attacking and defending AI systems.
 ---
 
 ![](/assets/headers/header-logo.png)

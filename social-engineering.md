@@ -1,6 +1,6 @@
 ---
 title: Social Engineering
-description: Manipulation techniques that exploits human error to gain private information, access, or valuables.
+description: Manipulation techniques that exploit human error to gain private information, access, or valuables.
 ---
 
 ![](/assets/headers/header-logo.png)

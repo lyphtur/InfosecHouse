@@ -1,6 +1,6 @@
 ---
 title: Endpoint Protection
-description: Protect your endpoints.
+description: Lock down every endpoint before someone else does.
 ---
 
 ![](/assets/headers/header-logo.png)

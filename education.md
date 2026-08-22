@@ -1,6 +1,6 @@
 ---
 title: Education
-description: Training and courses to master your craft.
+description: Level up. Training and courses to master your craft.
 ---
 
 ![](/assets/headers/header-logo.png)

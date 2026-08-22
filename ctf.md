@@ -1,6 +1,6 @@
 ---
 title: CTF
-description: Offensive Security Capture the Flag Events.
+description: Flex your skills. Offensive security capture-the-flag events.
 ---
 
 ![](/assets/headers/header-logo.png)

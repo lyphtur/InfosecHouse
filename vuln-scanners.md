@@ -1,6 +1,6 @@
 ---
 title: Vulnerability Scanners
-description: Discover vulnerabilities fast, and automate some of the heavy loads.
+description: Discover vulnerabilities fast, and automate the heavy lifting.
 ---
 
 ![](/assets/headers/header-logo.png)

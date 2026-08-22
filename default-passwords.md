@@ -1,6 +1,6 @@
 ---
 title: Default Passwords
-description: The default password library.
+description: Still using admin/admin? 1,000+ default passwords to check first.
 ---
 
 ![](/assets/headers/header-logo.png)

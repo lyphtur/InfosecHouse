@@ -1,6 +1,6 @@
 ---
 title: Windows
-description: Microsoft Windows pentesting tools and resources.
+description: Tools and resources for popping those Windows boxes.
 ---
 
 ![](/assets/headers/header-logo.png)
