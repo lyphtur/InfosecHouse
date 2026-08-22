@@ -5,7 +5,7 @@ description: Seek out technologies and methods of remaining anonymous in the day
 
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-100-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-104-757575?style=for-the-badge)
 
 ## Anonymity
 
@@ -151,7 +151,7 @@ This ain't your mommas notebook. Secure your passwords, secrets, and notes.
 ### Consumer Password/Secret Managers
 
 * [1Password](https://1password.com) - Password Manager for Families, Businesses, Teams . 
-* [Bitwarden]() - Easiest and safest way for teams and individuals to store and share sensitive data from any device. 
+* [Bitwarden](https://bitwarden.com/) - Easiest and safest way for teams and individuals to store and share sensitive data from any device. 
 * [Dashlane](https://www.dashlane.com/) - Password Manager App for Home, Mobile, Business. 
 * [GoPass](https://www.gopass.pw/) - The slightly more awesome standard unix password manager for teams. 
 * [Keepass](https://keepass.info/) - A free open source password manager. 
